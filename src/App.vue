@@ -55,7 +55,6 @@
         label="地址"
       />
       <el-table-column
-        width="240"
         prop="time"
         label="时间"
       />
